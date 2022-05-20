@@ -309,7 +309,7 @@
  	 	 	 	"eng": "Replying to ${playerName}"
  	 	 	},
  	 	 	"linksNotAllowed": {
- 	 	 	 	"trans": "链接是不允许的",
+ 	 	 	 	"trans": "链接不被允许",
  	 	 	 	"eng": "Links are not allowed"
  	 	 	},
  	 	 	"spamBlock": {
@@ -966,7 +966,7 @@
  	 	},
  	 	"afkTask": {
  	 	 	"newbieTip": {
- 	 	 	 	"trans": "即使您关闭了游戏，任务也会继续下去",
+ 	 	 	 	"trans": "即使您关闭了游戏，任务也会持续进行",
  	 	 	 	"eng": "The task will continue even if you close the game"
  	 	 	},
  	 	 	"syncing": {
@@ -3557,7 +3557,7 @@
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "哈希处理器",
+ 	 	 	 	"trans": "拼凑处理器",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
